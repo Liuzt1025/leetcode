@@ -19,4 +19,3 @@
 
 [面试题 16.17. 连续数列](https://leetcode-cn.com/problems/contiguous-sequence-lcci/)（连接还没改）
 
-![image-20210718165904444](https://gitee.com/liuzhentao1025/pic/raw/master/img/image-20210718165904444.png)
